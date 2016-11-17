@@ -33,11 +33,11 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href="https://twitch.tv/calexil" class="icon fa-twitch"><span class="label">Twitch</span></a></li>
-						<li><a href="https://github.com/calexil" class="icon fa-github"><span class="label">Github</span></a></li>
-						<li><a href="https://twitter.com/calexil" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://reddit.com/user/calexil" class="icon fa-reddit"><span class="label">Reddit</span></a></li>
-
+						<li><a href="https://twitch.tv/calexil" class="icon fa-twitch" target="_blank"><span class="label">Twitch</span></a></li>
+						<li><a href="https://github.com/calexil" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
+						<li><a href="https://twitter.com/calexil" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="https://reddit.com/user/calexil" class="icon fa-reddit" target="_blank"><span class="label">Reddit</span></a></li>
+						
 					</ul>
 				</footer>
 			</section>
@@ -70,6 +70,7 @@
 										<li class="fa-reddit">Moderate Subreddits</li>
 										<li class="fa-bolt">Play MTG</li>
 										<li class="fa-arrow-up">Stream Stepmania</li>
+										<li class="fa-twitter">Shitpost on Twitter</li>
 									</ul>
 								</div>
 							</section>
@@ -110,7 +111,7 @@
 								<div class="container">
 									<h3>Contact Me</h3>
 									<p>I might reply</p>
-									<form method="post" action="#">
+									<form method="post" action="mail.php">
 										<div class="row uniform">
 											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
 											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
@@ -119,7 +120,7 @@
 											<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
 										</div>
 										<div class="row uniform">
-											<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+											<div class="12u"><textarea name="comments" onBlur="if(this.value==''){this.value='Message'}" onFocus="if(this.value=='Message'){this.value=''}" id="comments">Message</textarea></div>
 										</div>
 										<div class="row uniform">
 											<div class="12u">
