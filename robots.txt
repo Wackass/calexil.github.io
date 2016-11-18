@@ -1,0 +1,11 @@
+User-agent: Google
+Disallow:
+
+User-agent: YahooSeeker
+Disallow: / 
+
+
+User-Agent: *
+Disallow: /cgi-bin/
+
+Sitemap: https://calexil.github.io/sitemap.xml

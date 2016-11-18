@@ -65,7 +65,7 @@
 									<h3>Things I Can Do</h3>
 									<p>not much..</p>
 									<ul class="feature-icons">
-										<a href="https://github.com/calexil" class="button"><li class="fa-code">Reverse-engineer code</li></a>
+										<li class="fa-code">Reverse-engineer code</li>
 										<li class="fa-linux">Test on Linux</li>
 										<li class="fa-reddit">Moderate Subreddits</li>
 										<li class="fa-bolt">Play MTG</li>
