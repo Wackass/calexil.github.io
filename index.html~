@@ -54,7 +54,7 @@
 <li class=fa-reddit><a href="https://reddit.com/user/calexil" target=_blank>Moderate Subreddits</a></li>
 <li class=fa-bolt><a href="https://tappedout.net/users/calexil" target=_blank>Play MTG</a></li>
 <li class=fa-arrow-up><a href="https://twitch.tv/calexil">Stream Stepmania</a></li>
-<a href="https://twitter.com/calexil" target=_blank><li class=fa-twitter>Shitpost on Twitter</li></a>
+<li class=fa-twitter><a href="https://twitter.com/calexil" target=_blank>Shitpost on Twitter</a></li>
 </ul>
 </div>
 </section>
@@ -100,7 +100,7 @@
 </div>
 <section id=footer>
 <div class=container>
-<h3></h3>
+<h3> </h3>
 <ul class=copyright>
 <li><br>BY-<a href="http://github.com/calexil">2017 calexil CCA 4.0</a></li>
 </ul>
