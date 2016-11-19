@@ -38,7 +38,7 @@
 						<li><a href="#one" class="active">About</a></li>
 						<li><a href="#two">Things I Do</a></li>
 						<li><a href="#three">A Few Accomplishments</a></li>
-						<li><a href="#four">Contact me</a></li>
+						<li><a href="#four" >Contact me</a></li>
 					</ul>
 				</nav>
 				<footer>
@@ -64,10 +64,7 @@
 										<h2>Welcome</h2>
 										<p>To thunderdome bitch...</p>
 									</header>
-									<nav id="nav">
-									<ul>
-									<a href="#two" id="nav" ><li>My name is JD and I do stuff, find out what here.</li></a>
-									</ul>
+									<a href="#two"><p>My name is JD and I do stuff, find out what below.</p></a>
 								</div>
 							</section>
 
