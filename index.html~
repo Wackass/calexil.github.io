@@ -1,10 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Edited by @calexil
-	Free for personal and commercial use under the CCA 4.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>Homepage for Calexil</title>
@@ -91,7 +85,7 @@
 									<p>Look at the stupid shit I do.</p>
 									<div class="features">
 										<article>
-											<a href="http://calexil.deviantart.com" class="image" target="_blank"><img src="images/rms.jpg" alt="" /></a>
+											<a href="http://calexil.deviantart.com/gallery" class="image" target="_blank"><img src="images/rms.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Draw poorly and make wallpapers in gimp</h4>
 												<p>herp, derp ...I'm an artist</p>
@@ -147,7 +141,11 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-			
-
+		<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Edited by @calexil
+	Free for personal and commercial use under the CCA 4.0 license (html5up.net/license)
+-->	
 	</body>
 </html>
