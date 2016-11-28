@@ -84,7 +84,7 @@
 </div>
 </article>
 <article>
-<a href="#" class=image target=_blank><img src="images/twitch.jpg" alt=twitch/></a>
+<a href="#" class=image target=_blank><img src="images/twitch.jpg" width="331" height="186" alt=twitch/></a>
 <div class=inner>
 <h4>Stream games on Twitch</h4>
 <p><a href="http://twitch.tv/calexil" title="click me foo"> I play stepmania and a few other games on twitch.tv a bunch, you should follow me.</a></p>
